@@ -1,0 +1,133 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body{
+    background-color: #740202;
+}
+
+.header{
+    background-color: #97D7FF;
+    width: 100%;
+    color: #202734;
+    padding: 20px 40px;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 1px solid #1F06AC;
+}
+
+.course-info{
+    background-color: #FFEFC4;
+    color: #36415A;
+    /*margin-bottom: 15px; */
+    padding: 15px;
+}
+
+.course-dec{
+    background-color: #4D8DBA;
+    margin-top: 15px;
+    padding: 15px;
+}
+
+.frontand{
+    background-color: #4C2365;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #7F5D99;
+}
+ol{
+    margin-left: 100px;
+    padding-left: 85px;
+}
+
+.backand{
+    background-color: #80426E;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #522D60;
+}
+
+.database{
+    background-color: #086288;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #4D8DBA;
+}
+
+.programming{
+    background-color: #AB03A9;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+}
+.course-module{
+    background-color: #81d2fa;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+
+}
+ul{
+    margin-left: 100px ;
+    padding-left: 85px;
+}
+
+.tech-description{
+    background-color: #A14646;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+}
+
+.development-tool{
+    background-color: #d98a8a;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+
+}
+
+.learning{
+    background-color: #0D1C42;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+
+}
+
+.Eligibility{
+    background-color: #123F36;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+}
+
+.Schedule{
+    background-color: #455B8A;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+
+}
+
+.Important-Note{
+    background-color: #972828;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+}
+
+.Mathematics-Examples{
+    background-color: #FF9D50;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;
+}
+
+.contact{
+    background-color: #972828;
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid #f07c7c;  
+}
